@@ -1,6 +1,6 @@
 # mediumarticlecode
 #  
-
+![mediumLogo](https://miro.medium.com/max/1000/1*jfdwtvU6V6g99q3G7gq7dQ.png)
 # My Medium Article
  
 * [Understanding Array](https://medium.com/analytics-vidhya/understanding-array-d6262093e821)  
